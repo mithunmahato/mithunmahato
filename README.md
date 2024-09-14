@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Cisco Devnet and Devops
-- 👯 I’m looking to collaborate on ... Devops
+🌱 I’m currently learning ... Cisco Devnet and Devops
+👯 I’m looking to collaborate on ... Devops
 - 🤔 I’m looking for help with ... Learning Devops
 - 💬 Ask me about ...
 - 📫 How to reach me: mahatomithun3@gmail.com
