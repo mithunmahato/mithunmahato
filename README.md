@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Networn Administrator
+- 🔭 I’m currently working on ... Network Administrator
 -🌱 I’m currently learning ... Cisco Devnet and Devops
 -👯 I’m looking to collaborate on ... Devops and Network Automation
 - 🤔 I’m looking for help with ... Learning Devops
