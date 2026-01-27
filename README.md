@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mithun Mahato
 
 🚀 **Senior Network Analyst | Aspiring DevOps & Cloud Engineer**  
-🌐 Networking • ☁️ Cloud • 🔐 Network 🔐 Security • ⚙️ DevOps  
+🌐 Networking • ☁️ Cloud • 🔐 Security • ⚙️ DevOps  
 📍 Kolkata, India | 📧 mahatomithun3@gmail.com  
 
 ---
