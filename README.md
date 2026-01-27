@@ -58,6 +58,7 @@ I enjoy solving production issues, improving system reliability, and bridging th
 - Firewall configuration & troubleshooting  
   (**Fortinet**)
 - Network security principles
+- Zscaler secure access technologies
 - Secure remote access & enterprise connectivity
 - Traffic analysis & access control
 - Change control & security compliance
@@ -81,9 +82,9 @@ I enjoy solving production issues, improving system reliability, and bridging th
 - **Cisco WLC**
 - **FortiAnalyzer**
 - **ServiceNow**
-- Linux
-- Windows
-- PuTTY
+- **PuTTY**
+- **Operating Systems:Linux, Windows, macOS**
+- Zscaler
 
 ---
 
