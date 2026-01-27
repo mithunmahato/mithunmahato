@@ -113,8 +113,10 @@ Recognized for consistent performance and contribution to global projects
 
 ## 📌 Learning & Goals
 
-- 📘 Advanced Cloud Networking (Azure / AWS)
+- 📘 Advanced Cloud Networking (Azure / AWS/GCP)
 - 🔐 Cloud Security & Zero Trust Architecture
+- 📘 Network automation & DevNet
+- 📘 Cloud & Network Security (Zero Trust)
 - ⚙️ Infrastructure Automation
 - 📊 SRE & Observability Practices
 
