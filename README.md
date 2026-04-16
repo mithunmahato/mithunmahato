@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mithun Mahato
 
-🚀 **Senior Network Analyst | Aspiring DevOps & Cloud Engineer**  
+🚀 **Specialist|Network Engineer|Aspiring DevOps & Cloud Engineer**  
 🌐 Networking • ☁️ Cloud • 🔐 Security • ⚙️ DevOps  
 📍 Kolkata, India | 📧 mahatomithun3@gmail.com  
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a **Senior Network Analyst with 6+ years of enterprise experience**, currently evolving into **DevOps, Cloud, and Network Security engineering** roles. My core strength lies in building **reliable, secure, and scalable infrastructure** across on-prem and cloud Network environments.
+I am a **Specialist in Network Engineer with 6+ years of enterprise experience**, currently evolving into **DevOps, Cloud, and Network Security engineering** roles. My core strength lies in building **reliable, secure, and scalable infrastructure** across on-prem and cloud Network environments.
 
 I work extensively with **WAN, SD-WAN, routing & switching, firewalls**, and **network monitoring**, while actively upskilling in **cloud platforms, automation, and DevOps practices**.
 
